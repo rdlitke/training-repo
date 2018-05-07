@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-my first file1122111
-=======
-my first file2233
->>>>>>> 306031b1957b21194e27dbf0fa0fe21d32436e7e
-=======
-my first file2233
->>>>>>> 306031b1957b21194e27dbf0fa0fe21d32436e7e
+my first file amend
